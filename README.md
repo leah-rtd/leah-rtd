@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I am Leah Rothschild, recently completed a Data Science & Machine Learning coding Bootcamp @Le Wagon 
+
+- 🌱 I’m currently exited to learn more about Data Science with a view of entering the field of Policy Analysis
+- 📫 How to reach me: leahisrothschild@gmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I once flew a plane !
 <!--
 **leah-rtd/leah-rtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
